@@ -1,16 +1,9 @@
 # Project WeView
 
-The project's goal is to gather reviews and offer data about them. This project will assist users in choosing whether to purchase a product. At the moment, we are focusing on the Amazon online store. We'll broaden the focus in the near future. This is a capstone project and is done in group
+The project's goal is to gather reviews and offer data about them. This project will assist users in choosing whether to purchase a product. At the moment, we are focusing on the Amazon online store. We'll broaden the focus in the near future. 
 
-We are **three** member in the group.
 
-**1) Neel Patel**
 
-**2) Samarth Joisar**
-
-**3) Shivam Parekh**
-
-We would like to thank a wonderful professor, **A Zaman**, for the excellent teachings he taught us. We express our gratitude for your generosity and the wonderful support of overseas students like ourselves.
 
 # Screenshots
 
